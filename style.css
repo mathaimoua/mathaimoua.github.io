@@ -1,0 +1,35 @@
+.column {
+  float: left;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.left {
+  width: 18%;
+}
+
+.right {
+  border-left: 1px solid black;
+  width: 75%;
+}
+
+hr{
+  margin-bottom: 2px;
+  margin-top: 1px;
+  border-top: 1px solid #000000;
+}
+
+h3 {
+  padding: 0px;
+  margin: 0px;
+}
+
+h4 {
+  padding: 0px;
+  margin: 0px;
+}
+
+h1.name {
+  padding: 0px;
+  margin: 0px;
+}
